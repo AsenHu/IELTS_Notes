@@ -9,6 +9,16 @@
     order 命令 点单 秩序
     disorder 紊乱
     flat 平坦的 公寓
+    rapid
+    immediate
+    swift
+    tailor
+    engender
+    owe
+    stem
+    account 账户 解释
+    carnivores
+    reputation
 
 # 同意替换
 
@@ -16,7 +26,6 @@
 
 2. but - yet - however - whereas - *nonetheless - nevertheless* - **instead (of)** - although - though - **despite** - in spite (of) - **unfortunately** - *ironically* - on the contrary - **on the other hand** 转折
 
-    - unfortuately fortune
-    - ironically irony
-    - on the contrary contrast
-    - on the one hand ... on the other hand
+3. **Lead to - prompt - contribute to - result in - as a result** - cause - *trigger - induce* - engender - generate - so - hence - therefore 导致 如果
+
+4. Thanks to - due to - owing to - because of - **as a result of - stem from - derive - as - since** - for - account 由于 原因
