@@ -1,29 +1,31 @@
-    -al     adj.
-    -ity    n.
-    accompany v.陪伴
-    generation 生成
-    gene 基因
-    advanced
-    crow
-    crowd
-    order 命令 点单 秩序
-    disorder 紊乱
-    flat 平坦的 公寓
-    rapid
-    immediate
-    swift
-    tailor
-    engender
-    owe
-    stem
-    account 账户 解释
-    carnivores
-    reputation
-    manage to
-    bear 熊 承受 具有 生育
-    ancestor
-    lack
-    coin 创造
+# 词汇
+
+- al (adj. 形容词后缀)
+- ity (n. 名词后缀)
+- accompany (v. 陪伴)
+- generation (n. 生成)
+- gene (n. 基因)
+- advanced (adj. 先进的)
+- crow (n. 乌鸦)
+- crowd (n. 人群)
+- order (n. 命令, 点单, 秩序)
+- disorder (n. 紊乱)
+- flat (adj. 平坦的, n. 公寓)
+- rapid (adj. 迅速的)
+- immediate (adj. 立即的)
+- swift (adj. 迅速的)
+- tailor (n. 裁缝, v. 定制)
+- engender (v. 引起, 产生)
+- owe (v. 欠（债务）, 归功于)
+- stem (n. 茎, v. 来源于)
+- account (n. 账户, 解释)
+- carnivores (n. 食肉动物)
+- reputation (n. 名声)
+- manage to (v. 设法)
+- bear (n. 熊, v. 承受, 具有, 生育)
+- ancestor (n. 祖先)
+- lack (n. 缺乏, v. 缺乏)
+- coin (v. 创造, n. 硬币)
 
 # 同意替换
 
