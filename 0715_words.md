@@ -19,6 +19,11 @@
     account 账户 解释
     carnivores
     reputation
+    manage to
+    bear 熊 承受 具有 生育
+    ancestor
+    lack
+    coin 创造
 
 # 同意替换
 
@@ -29,3 +34,7 @@
 3. **Lead to - prompt - contribute to - result in - as a result** - cause - *trigger - induce* - engender - generate - so - hence - therefore 导致 如果
 
 4. Thanks to - due to - owing to - because of - **as a result of - stem from - derive - as - since** - for - account 由于 原因
+
+5. **forebear** - forefather - **ancestor - early tribes** - early generation - *early incarnation - predecessor* 祖先
+
+6. **Coin - known as - name - call - refer to (as) - first used** + a term 创造*专业术语*
