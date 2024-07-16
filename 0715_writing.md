@@ -70,3 +70,15 @@ Some people claim that books, magazines, and newspapers are not necessary, while
 
 3. **Body 3**
     That is not to say that... 反方观点 Indeed, ...反方观点的合理性 However, ... 转折回自己的观点
+
+# Watching TV is bad for children
+
+Some people think children should not be restricted watching TV, some people not. I think we should limit children watch TV.
+
+First of all, watching TV is bad for health, not to mention children. When children watching TV, they also sit on sofa more than 1 hours and don't want to do sport, children will very fat and have lot of illness, such as high blood pressure, high blood lipids etc. Long screen time is also bad for eyes, children will get glasses when they are very young, watching TV is bad for children, no doubt.
+
+Moreover, the information on TV probably not suitable for children. Children don't know which content they should accept or not, children maybe will accept some 12+ content, and also children don't have critical thinking, when they accept extreme speech, it's very danger, but when these happen, nobody know.
+
+That is not to say that waching TV is harmless. Indeed, some people can study some useful knowleadge by TV However, don't forget, most children only choose content what they like, children are not aduld and they don't want to choose boring study channel.
+
+In summery, I think TV is bad for children and we should limit children watching TV. There are lot of interesting things in life, why let your kids watch TV?
