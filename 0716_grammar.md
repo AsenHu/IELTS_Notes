@@ -23,7 +23,7 @@ of for to 介词的使用
 # Question 2
 
 1. This bus departs on 5 o'clock every morning.
-2. Children are eazier to learn langurage.
+2. Children are eazier to learning langurage.
 3. Goverments should provide excellent students scholarship.
 4. This situation is not optimistic.
 5. Goverments always ignore importance of protect environment.
