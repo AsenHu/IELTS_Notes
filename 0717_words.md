@@ -56,3 +56,5 @@
 14. **abandon** - quit - **give up** - discard - throw away - **forsake** - desert - **derelict** 放弃
 
 15. **realistic - viable - practical - feasible** - applicable - achievable 可行的 实际的
+
+16. **potential** - chance - **likelihood - possibility** - probability - odds - **prospect - be liable to** - prone to - **tend to** 数字（百分 / 分数）可能性
