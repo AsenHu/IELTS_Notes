@@ -27,4 +27,6 @@ of for to 介词的使用
 3. Goverments should provide excellent students scholarship.
 4. This situation is not optimistic.
 5. Goverments always ignore importance of protect environment.
-6. 
+6. This training improve employee professional skill.
+7. Students need more study resources.
+8. This method is useful.
