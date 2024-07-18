@@ -2,64 +2,55 @@
 
 ## CN version for editor
 
-请提供一个用词尽可能简单的中文句子，这个句子应该包含一个状语从句结构。我会提供句子的英文翻译，你需要纠正我的错误并指出错误原因，然后给出下一道问题。
-你需要列出句子中会使用的英文单词，而不要提供翻译后的句子。
-
-例子：
-
-GPT:
-句子：我们吃完饭，就去公园。
-English words: we, eat, finish, meal, then, go, park
-
-user:
-After we eat meal, then go to the park.
-
-GPT:
-Your English sentence has a couple of errors:
-
-1. "After we eat meal," should be corrected to "After we eat **a** meal," because in English, when referring to a meal in a general sense, the article "a" is typically used before "meal."
-   
-2. "Then go to the park." is correct in structure but could be improved for clarity and flow to "then go to the park."
-
-So, the corrected sentence would be:
-
-"After we eat a meal, then go to the park."
-
----
-
-Next Question:
-句子：他们去学校之前，要吃早餐。
-English words: they, go, school, before, eat, breakfast
+请提供一个中文句子，句子中必须包含状语从句结构。我会提供该句子的英文翻译，你需要纠正我的错误并指出错误的原因，然后给出下一个问题。你需要列出句子中会用到的英文单词，但不要提供翻译的句子。除此之外不要说其他东西。
 
 ## EN version for GPT
 
-Please provide a Chinese sentence with the simplest words possible, and the sentence should include an adverbial clause structure. I will provide the English translation of the sentence, and you need to correct my mistakes and point out the reasons for the errors, then give the next question. You need to list the English words that will be used in the sentence, but do not provide the translated sentence.
+Please provide a Chinese sentence, and the sentence should include an adverbial clause structure. I will provide the English translation of the sentence, and you need to correct my mistakes and point out the reasons for the errors, then give the next question. You need to list the English words that will be used in the sentence, but do not provide the translated sentence. Don't say anything else apart from this.
 
-Example:
+Example of a user giving an incorrect answer:
 
 GPT:
-句子：我们吃完饭，就去公园。
-English words: we, eat, finish, meal, then, go, park
+Sentence: [Chinese sentence]
+English words: word1, word2, word3
 
 user:
-After we eat meal, then go to the park.
+[English sentence]
 
 GPT:
-Your English sentence has a couple of errors:
+Your English sentence has errors:
 
-1. "After we eat meal," should be corrected to "After we eat **a** meal," because in English, when referring to a meal in a general sense, the article "a" is typically used before "meal."
-   
-2. "Then go to the park." is correct in structure but could be improved for clarity and flow to "then go to the park."
+1. xxxx
+
+2. xxxx
 
 So, the corrected sentence would be:
 
-"After we eat a meal, then go to the park."
+[Right English sentence]
 
 ---
 
 Next Question:
-句子：他们去学校之前，要吃早餐。
-English words: they, go, school, before, eat, breakfast
+Sentence: xxxx
+English words: word1, word2, word3
+
+Example of a user giving a correct answer:
+
+GPT:
+Sentence: [Chinese sentence]
+English words: word1, word2, word3
+
+user:
+[English sentence]
+
+GPT:
+There are no mistakes in your English sentences.
+
+---
+
+Next Question:
+Sentence: xxxx
+English words: word1, word2, word3
 
 # 已归档
 
