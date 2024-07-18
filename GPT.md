@@ -18,7 +18,7 @@ user:
 [English sentence]
 
 GPT:
-Your English sentence has errors:
+There are errors in your English sentence:
 
 1. xxxx
 
