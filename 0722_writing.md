@@ -42,3 +42,20 @@ Second, multimedia content can present complex concepts more intuitively. Throug
 Lastly, multimedia content provides more interactive learning opportunities. Modern multimedia technology is not limited to passive watching; it also includes many interactive elements such as interactive videos, virtual reality (VR) experiences, and online quizzes. These interactive methods can engage students actively in the learning process, enhancing their hands-on skills and practical abilities. For instance, through interactive videos, students can participate in simulated experiments, answer questions, and engage in exploratory learning. This participatory learning approach can improve students' comprehension and memory, whereas traditional textbooks often lack such interactivity. Additionally, virtual reality technology can allow students to experience historical events or scientific phenomena firsthand, making their learning experience more immersive and profound.
 
 In conclusion, using multimedia content to replace traditional textbooks has significant advantages. Multimedia content can better capture students' attention, present complex concepts more intuitively, and provide rich interactive learning opportunities. For twelve-year-old children, this learning method can not only increase their interest and engagement in learning but also help them better understand and remember what they learn. Therefore, educators should actively explore and apply multimedia teaching methods to enhance educational outcomes and provide students with a richer and more enjoyable learning experience.
+
+# Homework
+
+Some people think public museums and art galleries are not needed because people can see historical
+objects and works of art using computers. Do you agree or disagree?
+
+## Body 1
+
+First of all, nobody disturb people who are visit museums or galleries. Notification usually distract people,
+It makes people who visit museums by computer or phone focus on historical object hardly, and then,
+they get a worse visiting feeling.
+
+## Body 2 (Concession)
+
+Some people think that visiting by phone is more convenient and economical, this cannot be refuted. But
+old people and children may not use computer, They still need museums. So I think museums are still
+needed.
