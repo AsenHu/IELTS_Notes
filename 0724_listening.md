@@ -1,0 +1,5 @@
+- 并列 and, also, as well as, the other, another, in addition
+- 顺序first, after, then, next
+- 举例 for example, for instance
+- 转折 but, however
+- 强调 so, actually, in fact, in other words, that is to say
