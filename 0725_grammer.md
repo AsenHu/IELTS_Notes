@@ -7,6 +7,3 @@ The museum which show the morden arts attract fans around the world.
 The museum which shows modern art attracts fans from around the world.
 
 It is brave of him to stand up for his beliefs.
-
-
-
