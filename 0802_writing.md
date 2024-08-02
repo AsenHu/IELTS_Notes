@@ -1,0 +1,1 @@
+The maximum of sweden CO2 emissions is 10 in metric tonnes at 1977. 
